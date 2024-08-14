@@ -22,7 +22,7 @@ https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
 https://live-fi.tvkaista.net/kutonen/live.m3u8
 #EXTINF:-1 group-title="Finnish" tvg-name="TLCFinland.fi",TLC Finland
 https://live-fi.tvkaista.net/tlc/live.m3u8?hd=true
-#EXTINF:-1 group-title="Finnish" tvg-name="star.fi",star
+#EXTINF:-1 group-title="Finnish" tvg-name="Star.fi",Star
 https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 #EXTINF:-1 group-title="Finnish" tvg-name="MTV Ava.fi",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8
