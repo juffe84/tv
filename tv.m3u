@@ -20,7 +20,7 @@ https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
 https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
 #EXTINF:-1 group-title="Finnish" tvg-name="Kutonen.fi",Kutonen
 https://live-fi.tvkaista.net/kutonen/live.m3u8
-#EXTINF:-1 group-title="Finnish" tvg-name="TLCFinland.fi",TLC Finland
+#EXTINF:-1 group-title="Finnish" tvg-name="TLC.fi",TLC Finland
 https://live-fi.tvkaista.net/tlc/live.m3u8?hd=true
 #EXTINF:-1 group-title="Finnish" tvg-name="Star.fi",Star
 https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
@@ -42,7 +42,7 @@ https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Finnish" tvg-name="family-fi-rakuten-tv",Rakuten TV Family Movies
 https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Finnish" tvg-name="documentaries-fi-rakuten-tv",Rakuten TV Rakuten Dokumentit
+#EXTINF:-1 group-title="Finnish" tvg-name="documentaries-fi-rakuten-tv-555f03b7-705a-4c66-838d-902ad9e1ab20",Rakuten TV Dokumentit
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Finnish" tvg-name="top-free-fi-rakuten-tv",Rakuten TV Top Movies
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
