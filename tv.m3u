@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="Finnish",yle TV1
+#EXTINF:-1 group-title="Finnish",Yle TV1
 https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
-#EXTINF:-1 group-title="Finnish",yle TV2
+#EXTINF:-1 group-title="Finnish",Yle TV2
 https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
-#EXTINF:-1 group-title="Finnish",mtv3
+#EXTINF:-1 group-title="Finnish",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1 group-title="Finnish",nelonen
+#EXTINF:-1 group-title="Finnish",Nelonen
 https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1 group-title="Finnish",yle teema fem
+#EXTINF:-1 group-title="Finnish",Yle Teema & Fem
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
-#EXTINF:-1 group-title="Finnish",mtv sub
+#EXTINF:-1 group-title="Finnish",MTV Sub
 https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 group-title="Finnish",TV 5
+#EXTINF:-1 group-title="Finnish",TV5
 https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1 group-title="Finnish",liv
+#EXTINF:-1 group-title="Finnish",Liv
 https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1 group-title="Finnish",jim
+#EXTINF:-1 group-title="Finnish",Jim
 https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 group-title="Finnish",TV6
+#EXTINF:-1 group-title="Finnish",Kutonen
 https://live-fi.tvkaista.net/kutonen/live.m3u8
-#EXTINF:-1 group-title="Finnish",ava
+#EXTINF:-1 group-title="Finnish",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 group-title="Finnish",hero
+#EXTINF:-1 group-title="Finnish",Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-#EXTINF:-1 group-title="Finnish",frii
+#EXTINF:-1 group-title="Finnish",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8
-#EXTINF:-1 group-title="Finnish",natonan geographic
+#EXTINF:-1 group-title="Finnish",National Geographic
 https://live-fi.tvkaista.net/national-geographic/live.m3u8
-#EXTINF:-1 group-title="Finnish",eveo
+#EXTINF:-1 group-title="Finnish",Eveo
 https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?hd=true
 #EXTINF:-1 group-title="Finnish",Rakuten TV Action Movies
 https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
