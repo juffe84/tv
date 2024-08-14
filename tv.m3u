@@ -40,5 +40,5 @@ https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Finnish",Rakuten TV Rakuten Stories
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Finnish" tvg-name="Huippuelokuvat - Rakuten TV",Rakuten TV Top Movies
+#EXTINF:-1 group-title="Finnish" tvg-name="top-free-fi-rakuten-tv",Rakuten TV Top Movies
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
