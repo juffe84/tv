@@ -1,33 +1,34 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/finlandpremium.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml"
 #EXTINF:-1 group-title="Finnish" tvg-name="Yle TV1.fi",Yle TV1
 https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
-#EXTINF:-1 group-title="Finnish",Yle TV2
+#EXTINF:-1 group-title="Finnish" tvg-name="Yle TV2.fi",Yle TV2
 https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
-#EXTINF:-1 group-title="Finnish",MTV3
+#EXTINF:-1 group-title="Finnish" tvg-name="MTV3.fi",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1 group-title="Finnish",Nelonen
+#EXTINF:-1 group-title="Finnish" tvg-name="Nelonen.fi",Nelonen
 https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1 group-title="Finnish",Yle Teema & Fem
+#EXTINF:-1 group-title="Finnish" tvg-name="Yle Teema Fem.fi",Yle Teema & Fem
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
-#EXTINF:-1 group-title="Finnish",MTV Sub
+#EXTINF:-1 group-title="Finnish" tvg-name="MTV Sub.fi",MTV Sub
 https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 group-title="Finnish",TV5
+#EXTINF:-1 group-title="Finnish" tvg-name="TV5.fi",TV5
 https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1 group-title="Finnish",Liv
+#EXTINF:-1 group-title="Finnish" tvg-name="Liv.fi",Liv
 https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1 group-title="Finnish",Jim
+#EXTINF:-1 group-title="Finnish" tvg-name="Jim.fi",Jim
 https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 group-title="Finnish",Kutonen
+#EXTINF:-1 group-title="Finnish" tvg-name="Kutonen.fi",Kutonen
 https://live-fi.tvkaista.net/kutonen/live.m3u8
-#EXTINF:-1 group-title="Finnish",MTV Ava
+#EXTINF:-1 group-title="Finnish" tvg-name="MTV Ava.fi",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 group-title="Finnish",Hero
+#EXTINF:-1 group-title="Finnish" tvg-name="Hero.fi",Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-#EXTINF:-1 group-title="Finnish",Frii
+#EXTINF:-1 group-title="Finnish" tvg-name="Frii.fi",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8
-#EXTINF:-1 group-title="Finnish",National Geographic
+#EXTINF:-1 group-title="Finnish" tvg-name="National Geographic.fi",National Geographic
 https://live-fi.tvkaista.net/national-geographic/live.m3u8
-#EXTINF:-1 group-title="Finnish",Eveo
+#EXTINF:-1 group-title="Finnish" tvg-name="Eveo.fi,Eveo
 https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?hd=true
 #EXTINF:-1 group-title="Finnish",Rakuten TV Action Movies
 https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
@@ -39,5 +40,5 @@ https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Finnish",Rakuten TV Rakuten Stories
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Finnish",Rakuten TV Top Movies
+#EXTINF:-1 group-title="Finnish" tvg-name="top-movies-rakuten-tv",Rakuten TV Top Movies
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
