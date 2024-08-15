@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/finlandpremium.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/juffe84/tv/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/juffe84/rakuten-fi-epg/master/epg.xml"
 #EXTINF:-1 group-title="Finnish" tvg-name="Yle TV1.fi",Yle TV1
 https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
 #EXTINF:-1 group-title="Finnish" tvg-name="Yle TV2.fi",Yle TV2
