@@ -11,11 +11,11 @@ https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8
 #EXTINF:-1 group-title="Finnish" tvg-name="MTV3.fi",MTV3
 https://hirtto.tvkaista.net/mtv3/live011740279602.m3u8?timestamp=0
 #EXTINF:-1 group-title="Finnish" tvg-name="Nelonen.fi",Nelonen
-https://live-fi.tvkaista.net/nelonen/live.m3u8
+https://hirtto.tvkaista.net/nelonen/live011740279602.m3u8?timestamp=0
 #EXTINF:-1 group-title="Finnish" tvg-name="Yle Teema Fem.fi",Yle Teema & Fem
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
 #EXTINF:-1 group-title="Finnish" tvg-name="MTV Sub.fi",MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8
+https://hirtto.tvkaista.net/sub/live011740279602.m3u8?timestamp=0
 #EXTINF:-1 group-title="Finnish" tvg-name="TV5.fi",TV5
 https://live-fi.tvkaista.net/tv5/live.m3u8?hd=true
 #EXTINF:-1 group-title="Finnish" tvg-name="Liv.fi",Liv
